@@ -1,5 +1,5 @@
 # recreation-of-youareanidiot.org
-warning if you run this you might lag up your pc because this was reused in youareanidiot.org
+warning if you run this you might lag up your pc because this was reused in youareanidiot.org and make it html file
 <!DOCTYPE html>
 <html lang="en">
 <head>
